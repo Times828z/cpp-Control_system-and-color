@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/gaitubao_sa_png.png</file>
+        <file>image/gaitubao_ra_png.png</file>
+        <file>image/gaitubao_e_png.png</file>
+        <file>image/facemark.png</file>
+        <file>image/black.png</file>
+        <file>image/gaitubao_build_png.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
